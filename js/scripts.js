@@ -1,5 +1,5 @@
 //   all ------------------
-function initSolonick() {
+function initACM() {
     "use strict";
     //   loader ------------------
     $(".pin").text("Loading");
@@ -893,5 +893,5 @@ function initparallax() {
 //   Init All ------------------
 $(function () {
     initparallax();
-    initSolonick();
+    initACM();
 });
